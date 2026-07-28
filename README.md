@@ -14,13 +14,13 @@ Business-oriented SQL project to analyze monthly sales trends, revenue, and orde
 
 This project analyzes **monthly sales performance** using SQL aggregation functions in PostgreSQL. The analysis helps identify revenue trends, order volume, and top-performing months, enabling better business decisions for an online retail company.
 
----
+
 
 ## 🎯 Business Problem
 
 An online retail company wants to understand its monthly sales performance. Management needs insights into revenue trends and order volume to improve inventory planning, marketing strategies, and seasonal forecasting.
 
----
+
 
 ## 🎯 Project Objectives
 
@@ -30,7 +30,6 @@ An online retail company wants to understand its monthly sales performance. Mana
 - 🏆 Find top-performing months
 - 📊 Support business decision-making using SQL
 
----
 
 ## 🛠️ Tools & Technologies
 
