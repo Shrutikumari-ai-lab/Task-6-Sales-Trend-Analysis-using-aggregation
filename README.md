@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="images/elevate-labs-logo.jpg" alt="Elevate Labs Logo" width="250"/>
+</p>
+
 # Task-6-Sales-Trend-Analysis-using-aggregation
 Business-oriented SQL project to analyze monthly sales trends, revenue, and order volume using PostgreSQL. Includes SQL scripts, dataset, query results, and documentation.
-# 📊 Task 6: Sales Trend Analysis Using SQL
+
 
 > **Business-Oriented SQL Project | PostgreSQL | Data Analytics**
 
