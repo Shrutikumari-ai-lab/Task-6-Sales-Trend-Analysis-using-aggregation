@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/1746190297964.jpg" alt="Elevate Labs Logo" width="250"/>
+  <img src="elevate-labs-logo.jpg" alt="Elevate Labs Logo" width="250"/>
 </p>
 
 # Task-6-Sales-Trend-Analysis-using-aggregation
